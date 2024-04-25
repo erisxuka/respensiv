@@ -1,0 +1,24 @@
+@media only screen and (max-width: 414px) {
+    body {
+        background-color: lightblue;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    div {
+        margin: 40px;
+        width: 250px;
+        width: 250px;
+    }
+    img {
+        margin: 40px;
+    }
+  
+}
+
+.tabela {
+    border: 1px solid lightgreen;
+    width: 300px;
+    width: 300px;
+    background-color: lightgreen;
+}
